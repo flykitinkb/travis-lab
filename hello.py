@@ -6,4 +6,4 @@ Created on Fri Oct 26 10:26:41 2018
 @author: weijiexue
 """
 
-print ("hello world")
+print ("hello World")
